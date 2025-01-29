@@ -101,16 +101,16 @@ body {
 }
 
 .search-btn {
-    background: #27ae60;
+    background: #c0392b;
     color: white;
 }
 
 .search-btn:hover {
-    background: #2ecc71;
+    background: #c0392b;
 }
 
 .clear-btn {
-    background: #e74c3c;
+    background: #c0392b;
     color: white;
 }
 
